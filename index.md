@@ -27,6 +27,10 @@ permalink: /
   }
 </style>
 
+<div class="lang-switcher">
+  <strong>ko</strong> | <a href="/en/">en</a>
+</div>
+
 # 신재돈
 
 Email: jaedon.shin@gmail.com
