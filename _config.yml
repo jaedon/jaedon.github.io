@@ -1,0 +1,8 @@
+title: "Jaedon Shin | Portfolio"
+description: "Senior Embedded Linux System Software Engineer"
+url: "https://jaedon.github.io"
+lang: en-US
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
