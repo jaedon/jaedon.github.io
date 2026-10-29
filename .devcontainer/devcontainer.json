@@ -1,0 +1,8 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [4000],
+  "postCreateCommand": "gem install jekyll bundler && bundle install && export PAGES_REPO_NWO=dummy/repo && bundle exec jekyll serve --host 0.0.0.0 --livereload",
+  "remoteUser": "root"
+}
