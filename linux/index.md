@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Linux Kernel Contributions
-permalink: /kernel/
+permalink: /linux/
 ---
 
 <style>
@@ -31,11 +31,11 @@ Upstream contributions to the Linux kernel.
 
 Author: jaedon.shin@gmail.com
 
-Total Commits: {{ site.data.kernel | size }}
+Total Commits: {{ site.data.linux | size }}
 
 ---
 
-{% assign commits = site.data.kernel | sort: "date" | reverse %}
+{% assign commits = site.data.linux | sort: "date" | reverse %}
 {% assign current_year = "" %}
 
 {% for commit in commits %}
