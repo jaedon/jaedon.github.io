@@ -79,7 +79,7 @@ SoC support and driver fixes needed for commercial STB development, merged into 
 
 - Driver fixes: ahci_brcmstb, phy_brcmstb_sata, bcmgenet, i2c-brcmstb, sdhci-brcmstb, bcm-qspi, USB 3.0 PHY.
 
-- [Linux kernel commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=jaedon.shin%40gmail.com)
+- [Linux kernel commits](/kernel/)
 
 ## Projects
 

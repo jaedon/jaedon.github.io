@@ -79,7 +79,7 @@ Wi-Fi Access Point (AP) 및 Set-Top Box (STB) 플랫폼의 하드웨어 초기�
 
 - 드라이버 수정: ahci_brcmstb, phy_brcmstb_sata, bcmgenet, i2c-brcmstb, sdhci-brcmstb, bcm-qspi, USB 3.0 PHY
 
-- [리눅스 커널 커밋 내역](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=jaedon.shin%40gmail.com)
+- [리눅스 커널 커밋 내역](/kernel/)
 
 ## 주요프로젝트
 

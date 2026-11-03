@@ -1,0 +1,247 @@
+[
+  {
+    "sha": "4405bdf3c57ec28d606bdf5325f1167505bfdcd4",
+    "date": "2020-06-18",
+    "subject": "ARM: 8987/1: VDSO: Fix incorrect clock_gettime64"
+  },
+  {
+    "sha": "d70262ea0e36af4f7812e67108baa818592cde8f",
+    "date": "2018-06-08",
+    "subject": "phy: phy-brcm-usb-init: Fix power down USB 3.0 PHY when XHCI reenabled"
+  },
+  {
+    "sha": "b68c2575810521e470466b5faf4b79e796d12d74",
+    "date": "2017-11-17",
+    "subject": "MIPS: BMIPS: Add Broadcom STB watchdog nodes"
+  },
+  {
+    "sha": "e84442c12bbfc8cf2d7a33905e9d0e1a693b4356",
+    "date": "2017-11-17",
+    "subject": "MIPS: BMIPS: Add Broadcom STB wake-up timer nodes"
+  },
+  {
+    "sha": "c7146a2b5892ce97b71a66a47b0f6106a4a444e3",
+    "date": "2017-11-17",
+    "subject": "MIPS: BMIPS: Add Broadcom STB power management nodes"
+  },
+  {
+    "sha": "8fb71345ae275819424d61b8399443175bb80093",
+    "date": "2018-02-07",
+    "subject": "MIPS: BMIPS: Enable CONFIG_SOC_BRCMSTB"
+  },
+  {
+    "sha": "2d02424e89eca71b3fa5e832e6fbe467a413e3d5",
+    "date": "2018-02-12",
+    "subject": "irqchip/bcm: Remove hashed address printing"
+  },
+  {
+    "sha": "627f4a2bdf113ab88abc65cb505c89cbf615eae0",
+    "date": "2018-02-06",
+    "subject": "MIPS: BMIPS: Fix section mismatch warning"
+  },
+  {
+    "sha": "18192a77f0810933ab71a46c1b260d230d7352ee",
+    "date": "2017-12-01",
+    "subject": "media: dvb_frontend: Add commands implementation for compat ioctl"
+  },
+  {
+    "sha": "c2dfd2276cec63a0c6f6ce18ed83800d96fde542",
+    "date": "2017-12-01",
+    "subject": "media: dvb_frontend: Add compat_ioctl callback"
+  },
+  {
+    "sha": "a2282fd1fe2ebcda480426dbfaaa7c4e87e27399",
+    "date": "2017-12-01",
+    "subject": "media: dvb_frontend: Add unlocked_ioctl in dvb_frontend.c"
+  },
+  {
+    "sha": "ea4b3afe1eac8f88bb453798a084fba47a1f155a",
+    "date": "2017-06-16",
+    "subject": "MIPS: BMIPS: Fix missing cbr address"
+  },
+  {
+    "sha": "2de3ec4f1d4ba6ee380478055104eb918bd50cce",
+    "date": "2017-03-03",
+    "subject": "i2c: brcmstb: Fix START and STOP conditions"
+  },
+  {
+    "sha": "d783738c0014fe6d7af6288a468272683f32941f",
+    "date": "2017-01-10",
+    "subject": "MIPS: BMIPS: Add support SPI device nodes"
+  },
+  {
+    "sha": "279e4af7b4bebc6a5bf2d0e5b3209f3dcea94a19",
+    "date": "2016-12-30",
+    "subject": "spi: bcm-qspi: Enable the driver on BMIPS_GENERIC"
+  },
+  {
+    "sha": "d66698e0834657161314050b6c99c3eba36b180a",
+    "date": "2016-09-30",
+    "subject": "MIPS: BMIPS: Support APPENDED_DTB"
+  },
+  {
+    "sha": "a2c510a2d0418ce15cd739d0a177ce53b06e5695",
+    "date": "2016-08-19",
+    "subject": "MIPS: BMIPS: Use interrupt-controller node name"
+  },
+  {
+    "sha": "cfc8be04c36a1a6546b6f9cb8f02fd9f215c9d38",
+    "date": "2016-08-19",
+    "subject": "MIPS: BMIPS: Add support NAND device nodes"
+  },
+  {
+    "sha": "b2420e2762e36ec3aab0c0b6b9ee277f7b1b48e2",
+    "date": "2016-08-19",
+    "subject": "MIPS: BMIPS: Add support SDHCI device nodes"
+  },
+  {
+    "sha": "c707844d4b876f74f2adf036f98f6787d76d2905",
+    "date": "2016-08-19",
+    "subject": "MIPS: BMIPS: Add support GPIO device nodes"
+  },
+  {
+    "sha": "7bbe59ddbb9fae90eef0248416976d4e5f6b1a2d",
+    "date": "2016-08-19",
+    "subject": "MIPS: BMIPS: Add support PWM device nodes"
+  },
+  {
+    "sha": "6a3d8ced09482bd5b0e831740d83ed722aa2c5e6",
+    "date": "2016-09-09",
+    "subject": "mmc: sdhci-brcmstb: Fix incorrect capability"
+  },
+  {
+    "sha": "5a3ab2815c6a3772e9c70e1b3f778f1a23fc8671",
+    "date": "2016-09-09",
+    "subject": "mmc: DT: sdhci-brcmstb: Bindings document for common sdhci-brcmstb"
+  },
+  {
+    "sha": "94a0b0b92ed53cb74115b2c41c34aa0bf314d1aa",
+    "date": "2016-07-15",
+    "subject": "i2c: brcmstb: Remove superfluous size check"
+  },
+  {
+    "sha": "bcf358aa57742db3bf0d66df8418fc99975a4361",
+    "date": "2016-07-15",
+    "subject": "i2c: brcmstb: Make the driver buildable on BMIPS_GENERIC"
+  },
+  {
+    "sha": "69ca2b81c2f63eb48eccdf70a4433641c5041527",
+    "date": "2016-04-06",
+    "subject": "MIPS: BMIPS: Fix interrupt and remove needless properties"
+  },
+  {
+    "sha": "5c40d493e2e63d2979610aed75df7e3744b87921",
+    "date": "2016-04-06",
+    "subject": "MIPS: BMIPS: Add support UART, I2C, SATA device"
+  },
+  {
+    "sha": "4cef191d05871fbc8bb3b812880e1997e855a3b9",
+    "date": "2016-03-25",
+    "subject": "net: phy: bcm7xxx: Add entries for Broadcom BCM7346 and BCM7362"
+  },
+  {
+    "sha": "d07c0278da1f4cfc91c3d46d0d07a0d13a949892",
+    "date": "2016-02-19",
+    "subject": "net: bcmgenet: Fix internal PHY link state"
+  },
+  {
+    "sha": "2549cc967ebb4043f3507b55e3dc579f44d3b516",
+    "date": "2015-12-21",
+    "subject": "MIPS: Fix macro typo"
+  },
+  {
+    "sha": "1980eb9bd7d733ce089f9b154c08c2c71fb1f2a7",
+    "date": "2015-11-26",
+    "subject": "ata: ahci_brcmstb: add support for MIPS-based platforms"
+  },
+  {
+    "sha": "c1602a1a0fbe12ab8e67deedf32e5a85f8553a07",
+    "date": "2015-11-26",
+    "subject": "phy: phy_brcmstb_sata: add support for MIPS-based platforms"
+  },
+  {
+    "sha": "810c6f169fd1d8a37df884c0942727863f00319a",
+    "date": "2015-11-26",
+    "subject": "phy: phy_brcmstb_sata: add data for phy version"
+  },
+  {
+    "sha": "1dc3a8582c3b99bd88b47f7aafd07ceb934024dc",
+    "date": "2015-11-26",
+    "subject": "phy: phy_brcmstb_sata: remove duplicate definitions"
+  },
+  {
+    "sha": "2ef42f4a7ea3f44606ae8ef444f98a6720e82f7d",
+    "date": "2015-11-26",
+    "subject": "ata: ahci_brcmstb: remove unused definitions"
+  },
+  {
+    "sha": "b46f79bc78e00c392c5cb3eb56c5ee94e4142bcf",
+    "date": "2015-11-26",
+    "subject": "ata: ahci_brcmstb: add a quirk for MIPS-based platforms"
+  },
+  {
+    "sha": "7de3244530bf418cefdb64b635ee2d64ef63e3c9",
+    "date": "2015-11-26",
+    "subject": "ata: ahci_brcmstb: disable NCQ for MIPS-based platforms"
+  },
+  {
+    "sha": "1b04be20f6e38672d81f2de844488164bca988ca",
+    "date": "2015-10-27",
+    "subject": "MIPS: BMIPS: Add SATA/PHY nodes for bcm7362"
+  },
+  {
+    "sha": "19e88101c78fdbfb93580f7ac0eb64eea040cbb6",
+    "date": "2015-10-27",
+    "subject": "MIPS: BMIPS: Add SATA/PHY nodes for bcm7346"
+  },
+  {
+    "sha": "ce6df6376a1eeb63c694f8e82e9563b59c5506a6",
+    "date": "2015-10-27",
+    "subject": "MIPS: BMIPS: Add SATA/PHY nodes for bcm7425"
+  },
+  {
+    "sha": "f50cbf5329e045e8d69046ea9093e6bafdc09516",
+    "date": "2015-10-21",
+    "subject": "MIPS: BMIPS: Add I2C node for bcm7362"
+  },
+  {
+    "sha": "fb575b85efd091bad0e0a1220426086c789074d7",
+    "date": "2015-10-21",
+    "subject": "MIPS: BMIPS: Add I2C node for bcm7360"
+  },
+  {
+    "sha": "ad8378383e2c705871125f5c9d36936d80068174",
+    "date": "2015-10-21",
+    "subject": "MIPS: BMIPS: Add I2C node for bcm7358"
+  },
+  {
+    "sha": "39d9b6b223900cdcc36f78c7f9b4173975ca668c",
+    "date": "2015-10-21",
+    "subject": "MIPS: BMIPS: Add I2C node for bcm7346"
+  },
+  {
+    "sha": "b6df7d61c8776a882dd47ba4714d1445dd7ef2d9",
+    "date": "2015-08-21",
+    "subject": "net: bcmgenet: fix uncleaned dma flags"
+  },
+  {
+    "sha": "8bac078c5d6653a419ae980db9b6ebbf29e8759e",
+    "date": "2015-05-08",
+    "subject": "MIPS: BMIPS: dts: Add uart device nodes to bcm7xxx platforms"
+  },
+  {
+    "sha": "36f58113423f4588d7cf7535644fbb214414193b",
+    "date": "2015-06-12",
+    "subject": "MPI: MIPS: Fix compilation error with GCC 5.1"
+  },
+  {
+    "sha": "4092e6acf5cb16f56154e2dd22d647023dc3d646",
+    "date": "2015-02-28",
+    "subject": "net: bcmgenet: fix throughtput regression"
+  },
+  {
+    "sha": "ad8f723afbfe242ad2bc5067e06ca438b6a5c8a9",
+    "date": "2014-12-12",
+    "subject": "MIPS: Use phys_addr_t instead of phys_t"
+  }
+]
